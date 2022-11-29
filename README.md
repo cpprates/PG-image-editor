@@ -21,13 +21,18 @@ $ pip install --upgrade pip
 ```
 $ pip install opencv-contrib-python
 ```
-[OpenCV-Python](https://pypi.org/project/opencv-python/)
+
+[Documentação: OpenCV-Python](https://pypi.org/project/opencv-python/)
+
 ```
 $ pip install numpy tk pillow
 ```
-[NumPy](https://numpy.org/install/)
-[tk](https://docs.python.org/pt-br/3/library/tk.html)
-[Pillow](https://pillow.readthedocs.io/en/stable/)
+
+[Documentação: NumPy](https://numpy.org/install/)
+
+[Documentação: tk](https://docs.python.org/pt-br/3/library/tk.html)
+
+[Documentação: Pillow](https://pillow.readthedocs.io/en/stable/)
 
 ## Run
 ```
@@ -36,10 +41,14 @@ $ python Main.py
 
 Rodar através do Visual Studio Code
 
-## References
+## Referências
 
 [OpenCV](https://docs.opencv.org/4.x/d5/de5/tutorial_py_setup_in_windows.html)
+
 [Conversor de Cor](https://docs.opencv.org/3.4/d8/d01/group__imgproc__color__conversions.html)
+
 [Inspiração para UI](https://github.com/abassolaiya/Photo-Editing-App)
+
 [Inspiração de Filtros](https://towardsdatascience.com/python-opencv-building-instagram-like-image-filters-5c482c1c5079)
+
 [Mais Inspirações de Filtros](https://medium.com/dataseries/designing-image-filters-using-opencv-like-abode-photoshop-express-part-2-4479f99fb35)
